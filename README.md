@@ -4,6 +4,9 @@
 
 # sss
 
+
+
+
 数据库配置文件位置：/data/database.php
 
     <?php
