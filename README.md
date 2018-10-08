@@ -2,6 +2,8 @@
 
 ## 项目配置文件
 
+# sss
+
 数据库配置文件位置：/data/database.php
 
     <?php
